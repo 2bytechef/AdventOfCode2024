@@ -1,0 +1,29 @@
+Languages:
+Rust
+Go
+Python
+JavaScript
+C#
+C++
+Bash
+SQL
+WebAssembly
+Elixir
+
+Optimizations
+Time
+Space
+File size
+
+impediments
+No lists
+Only strings, no ints
+Only ints, no strings
+Must write own sorting functions/complex data structures
+No imports
+Can't use letter R
+Max 5 lines of code
+Min line length of 100
+Must use slack forms?
+Must use AWS?
+Go for leaderboard (overrides language/optimizations?)
