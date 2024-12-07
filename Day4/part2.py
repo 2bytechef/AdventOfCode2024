@@ -7,13 +7,6 @@ with open("./Day4/input.txt", "r") as f:
     for line in f:
         array.append(list(line.strip()))
         
-# array = [
-#     ['X', 'a', 'M', 'S', 'S', 'a', 'X', 'a', 'S', 'S'],
-#     ['a', 'a', 'S', 'a', 'a', 'M', 'S', 'X', 'a', 'A'],
-#     ['a', 'S', 'M', 'a', 'S', 'X', 'a', 'a', 'S', 'M'],
-#     ['S', 'a', 'M', 'X', 'S', 'X', 'X', 'M', 'a', 'X'],
-# ]
-        
 sumsy = 0
 for i in range(len(array)):
     for j in range(len(array[i])):
